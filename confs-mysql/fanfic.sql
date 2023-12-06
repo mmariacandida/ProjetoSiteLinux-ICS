@@ -1,0 +1,2 @@
+Table	Create Table
+fanfic	CREATE TABLE `fanfic` (\n  `id` int(6) unsigned NOT NULL AUTO_INCREMENT,\n  `titulo` varchar(150) NOT NULL,\n  `texto` varchar(10000) NOT NULL,\n  `id_autor` int(6) unsigned NOT NULL,\n  PRIMARY KEY (`id`),\n  KEY `id_autor` (`id_autor`),\n  CONSTRAINT `fanfic_ibfk_1` FOREIGN KEY (`id_autor`) REFERENCES `autor` (`id`)\n) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci
