@@ -21,7 +21,7 @@
 ![Virtual Box](https://img.shields.io/badge/Virtual%20Box-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)
 ![Draw.io](https://img.shields.io/badge/-Draw.io-orange?logo=diagramsdotnet&logoColor=white&style=for-the-badge)
 
-##Equipe
+## Equipe
   
 | [<img align="center" src="https://github.com/PI-InfoWeb-CNAT/2023-MovieCat/assets/79120586/b1fb641a-f623-4a77-af5e-79acdaa8cc91" width=150><br><sub>Maria Cândida</sub>](https://github.com/mmariacandida) |  [<img src="https://github.com/PI-InfoWeb-CNAT/2023-MovieCat/assets/79120586/a0aa352d-3e22-4e2c-bab0-41e6372c0f9e" width=150><br><sub>Milton Shyon</sub>](https://github.com/Shyon246) |  [<img src="https://github.com/PI-InfoWeb-CNAT/2023-MovieCat/assets/79120586/4cd48e33-0b39-4fd9-b9d6-720315141d9a" width=150><br><sub>Rita de Cássia</sub>](https://github.com/Ritinhha) |  </div>|
 | :---: | :---: | :---: | :--
